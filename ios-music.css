@@ -6,7 +6,8 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     background-color: black;
     color:white;
-margin-top:20px}
+margin-top:20px;
+   width: 100%;              }
 
 h2,h3,p,h4,h5{
     color:white;
